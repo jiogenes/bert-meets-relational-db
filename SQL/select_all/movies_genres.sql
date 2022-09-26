@@ -1,0 +1,1 @@
+SELECT * FROM movies_genres.sql;
